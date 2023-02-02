@@ -1,0 +1,45 @@
+﻿body
+{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+h1
+{
+    text-align: center;
+}
+
+a:link 
+{
+    text-decoration: none;
+    color: rgb(255, 187, 0);
+}
+ 
+a:visited 
+{
+    text-decoration: none;
+    color: rgb(0, 255, 136);
+}   
+
+a:hover 
+{
+    text-decoration: underline;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    border: 1px solid rgba(0, 255, 136, 0.8);
+    padding: 20px;
+    text-align: center;
+  }
+
+.alert{
+
+    color: black;
+  }
