@@ -1,6 +1,6 @@
-'''  '''
+'''     '''
 
-for i in range(11):
+for i in range(5):
     hyperlink = input()
     commment = input()
-    print(f'<a href="{hyperlink}">{commment}</a>')
+    print(f'<a href="{hyperlink}">{commment}</a><br>')
