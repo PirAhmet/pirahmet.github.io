@@ -1,1 +1,0 @@
-window.YTD.twitter_circle_member.part0 = [ ]

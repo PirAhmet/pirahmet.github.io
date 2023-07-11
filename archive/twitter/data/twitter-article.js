@@ -1,1 +1,0 @@
-window.YTD.twitter_article.part0 = [ ]
